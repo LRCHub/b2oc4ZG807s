@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ナンセンス文学",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-31T03:47:48.943603Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナンセンス文学",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_ナンセンス文学_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ナンセンス文学",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/02_ナンセンス文学_Eve.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ナンセンス文学",
+      "artist": "Eve feat. Sou",
+      "has_synced": false,
+      "path": "select/03_ナンセンス文学_Eve_feat._Sou.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ナンセンス文学",
+      "artist": "Eve (57)",
+      "has_synced": false,
+      "path": "select/04_ナンセンス文学_Eve_(57).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ナンセンス文学 - Eve  MV",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/05_ナンセンス文学_-_Eve_MV_Eve.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ナンセンス文学",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/06_ナンセンス文学_Eve.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ナンセンス文学",
+      "artist": "Eve feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/07_ナンセンス文学_Eve_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ナンセンス文学",
+      "artist": "Eve/Sou",
+      "has_synced": false,
+      "path": "select/08_ナンセンス文学_Eve_Sou.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ナンセンス文学 (feat. 天馬司&神代類&鏡音レン)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/09_ナンセンス文学_(feat._天馬司&神代類&鏡音レン)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ナンセンス文学",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/10_ナンセンス文学_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ナンセンス文学",
+      "artist": "Sou",
+      "has_synced": false,
+      "path": "select/11_ナンセンス文学_Sou.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ナンセンス文学",
+      "artist": "Eve feat. Hatsune, Miku",
+      "has_synced": false,
+      "path": "select/12_ナンセンス文学_Eve_feat._Hatsune,_Miku.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ナンセンス文学 - Nonsense Bungaku",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/13_ナンセンス文学_-_Nonsense_Bungaku_Eve.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ナンセンス文学",
+      "artist": "ワンダーランズ×ショウタイム feat. 天馬司&神代類&鏡音レン",
+      "has_synced": true,
+      "path": "select/14_ナンセンス文学_ワンダーランズ×ショウタイム_feat._天馬司&神代類&鏡音レン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナンセンス文学",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_ナンセンス文学_Eve.txt"
+    }
+  ]
+}
